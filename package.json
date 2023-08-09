@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-stripe-terminal",
+  "name": "evold-capacitor-stripe-terminal",
   "version": "0.0.1",
   "description": "Capacitor plugin for Stripe Terminal (credit card readers).",
   "main": "dist/esm/index.js",
@@ -13,7 +13,7 @@
     "pre-commit": "pretty-quick --staged",
     "docs": "typedoc --excludeExternals --out out src/index.ts"
   },
-  "author": "eventOne Labs <opensource@event1.io>",
+  "author": "Ayoub Taouarda",
   "license": "MIT",
   "dependencies": {
     "@capacitor/core": "^4.0.0",
